@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Tractor",
+    "city": "Machinery",
+    "address": "Punjab, India",
+    "price": 150000,
+    "desc": "A powerful tractor for various agricultural tasks, ensuring high efficiency.",
+    "photo": "/agri-images/tractor.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sprinkler System",
+    "city": "Irrigation",
+    "address": "Gujarat, India",
+    "price": 2000,
+    "desc": "Advanced sprinkler system for optimal water distribution across fields.",
+    "photo": "/agri-images/sprinklersystem.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rice Seeds",
+    "city": "Seeds",
+    "address": "West Bengal, India",
+    "price": 70,
+    "desc": "Premium quality rice seeds for high yield and healthy crops.",
+    "photo": "/agri-images/rice.JPG",
+    "featured": true
+  },
+  {
+    "title": "Plant Growth Lights",
+    "city": "Equipment",
+    "address": "Maharashtra, India",
+    "price": 3000,
+    "desc": "LED growth lights to promote indoor plant growth, ideal for greenhouses.",
+    "photo": "/agri-images/plantgrowthlights.jpg",
+    "featured": true
+  },
+  {
+    "title": "Organic Fertilizer",
+    "city": "Nutrients",
+    "address": "Tamil Nadu, India",
+    "price": 500,
+    "desc": "Eco-friendly fertilizer to enhance soil health and improve crop quality.",
+    "photo": "/agri-images/fertilizer.jpg",
+    "featured": true
+  },
+  {
+    "title": "Soil Moisture Sensor",
+    "city": "Sensors",
+    "address": "Karnataka, India",
+    "price": 800,
+    "desc": "High-precision sensor for monitoring soil moisture levels to optimize irrigation.",
+    "photo": "/agri-images/soilmoisturesensor.jpg",
+    "featured": true
+  },
+  {
+    "title": "Irrigation System",
+    "city": "Irrigation",
+    "address": "Andhra Pradesh, India",
+    "price": 12000,
+    "desc": "Comprehensive irrigation system for large-scale farming needs.",
+    "photo": "/agri-images/irrigationsystem.jpg",
+    "featured": true
+  },
+  {
+    "title": "Combine Harvester",
+    "city": "Machinery",
+    "address": "Haryana, India",
+    "price": 500000,
+    "desc": "Efficient harvester designed to speed up the harvesting process for multiple crops.",
+    "photo": "/agri-images/combineharvestor.JPG",
+    "featured": true
+  },
+  {
+    "title": "Fresh Fruits",
+    "city": "Fruits",
+    "address": "Shimla, India",
+    "price": 120,
+    "desc": "Organic apples grown in the Himalayas, rich in flavor and nutrients.",
+    "photo": "/agri-images/fruits.JPG",
+    "featured": true
+  },
+  {
+    "title": "Green Spinach",
+    "city": "Vegetables",
+    "address": "Punjab, India",
+    "price": 40,
+    "desc": "Freshly harvested green spinach, packed with vitamins and minerals.",
+    "photo": "/agri-images/vegetables.JPG",
+    "featured": true
+  }
+  
+]
